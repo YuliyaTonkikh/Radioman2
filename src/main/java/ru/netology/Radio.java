@@ -12,9 +12,9 @@ public class Radio {
 
     }
     public Radio(int stationsCount){
-        int maxStation = stationsCount -1;
+        maxStation = stationsCount - 1;
 
-        return;
+
 
     }
 
