@@ -1,9 +1,8 @@
 package ru.netology;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.Radio;
 
-public class RadioTest2 {
+public class RadioNewTest {
     @Test
     public void test() {
         Radio radio = new Radio(10);
@@ -33,7 +32,7 @@ public class RadioTest2 {
     public void test3(){
         Radio radio = new Radio();
         radio.setCurrentVolume(101);
-        int expected = 101;
+        int expected = 0;
         int actual = radio.getCurrentVolume();
         Assertions.assertEquals(expected,actual);
 

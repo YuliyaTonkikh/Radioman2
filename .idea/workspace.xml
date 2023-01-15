@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f03bbedd-0345-42f4-a3eb-994fa0019a3b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/Radio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/RadioTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/RadioTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/RadioTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/RadioNewTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +53,8 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RadioTest2.test5">
-    <configuration name="RadioTest2.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RadioNewTest.test4">
+    <configuration name="RadioNewTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Radioman2" />
       <extension name="coverage">
         <pattern>
@@ -64,14 +63,46 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.RadioTest2" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.RadioNewTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioNewTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Radioman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.RadioNewTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioNewTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Radioman2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.RadioNewTest" />
       <option name="METHOD_NAME" value="test5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest2.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioNewTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Radioman2" />
       <extension name="coverage">
         <pattern>
@@ -80,7 +111,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.RadioTest2" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.RadioNewTest" />
       <option name="METHOD_NAME" value="test6" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -103,45 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.test16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Radioman2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.netology.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.netology" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.RadioTest" />
-      <option name="METHOD_NAME" value="test16" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RadioTest.test17" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Radioman2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.netology.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.netology" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.RadioTest" />
-      <option name="METHOD_NAME" value="test17" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RadioTest2.test5" />
-        <item itemvalue="JUnit.RadioTest2.test6" />
+        <item itemvalue="JUnit.RadioNewTest.test4" />
+        <item itemvalue="JUnit.RadioNewTest.test3" />
+        <item itemvalue="JUnit.RadioNewTest.test5" />
+        <item itemvalue="JUnit.RadioNewTest.test6" />
         <item itemvalue="JUnit.RadioTest.test10" />
-        <item itemvalue="JUnit.RadioTest.test17" />
-        <item itemvalue="JUnit.RadioTest.test16" />
       </list>
     </recent_temporary>
   </component>
